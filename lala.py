@@ -1,1 +1,1 @@
-print("lalamc")
+print("lalagoodboy")
